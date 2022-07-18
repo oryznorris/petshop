@@ -1,5 +1,7 @@
 candidato: Lucas Alexandre Garcia de Araujo
 
+zip "arquivos ocultos" contem os arquivos e pastas que o git não aceitava. Extrair na raiz.
+
 mysql:
 	connection name: spring-boot-test
 	hostname: 127.0.0.1 : 3306
